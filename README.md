@@ -1,5 +1,5 @@
 Hello this script was made to make an assignment I have for Uni quicker.
-Fuck doing the same thing for 7 sets of data all by hand, instead do what most of us do and take longer automating it :D
+Sod doing the same thing for like 7 sets of data all by hand, instead do what most of us do and take longer automating it :D
 
 I might make some changes at some point to the script as it is really basic, but it get's the job done.
 
