@@ -11,3 +11,7 @@ What I'd like to do if it's possible:
 
 
 If I can think of anything else that'd also make it better then yay, if not enjoy lol :)
+
+
+Oh and it requires Python if you don't have it (You're on a python script repo go get Python..)
+https://www.python.org/downloads/
